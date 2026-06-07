@@ -6,10 +6,7 @@ def linhas():
 linhas()
 print('🧡 GUARDIÕES DA INFÂNCIA - MAIO LARANJA 🧡'.center(50))
 linhas()
-
-nome = input("Digite seu nome: ")
-linhas()
-print(f"Seja bem-vindo(a), {nome}! Sua missão é ajudar na conscientização!" .upper())
+print(f"Seja bem-vindo(a)! Sua missão é ajudar na conscientização!" .upper())
 time.sleep (2.0)
 
 linhas()
